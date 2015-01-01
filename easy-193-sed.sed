@@ -1,4 +1,4 @@
-#This must be used in a pipe with "sed -f $FILE" afte the pipe
+# This must be used in a pipe with "sed -f $FILE" afte the pipe
 # Example echo "lol, gg guys wp" | sed -f easy-193-sed.sed
 
 s/ lol/ laugh out loud/g
